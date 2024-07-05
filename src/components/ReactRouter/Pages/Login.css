@@ -1,0 +1,21 @@
+.login-image{
+    background-image: url('./images/login-image.jpg'); /* Path to your background image */
+    background-size: cover; /* Adjusts the image to cover the entire element */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Ensures the image does not repeat */
+    height: 100%;
+    width: 60%; /* Adjust the height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Adjust text color for readability */
+    text-align: center;
+    padding: 20px;
+}
+
+.login_content{
+    width: 40%;
+}
+.login_content-in{
+    width: 60%;
+}

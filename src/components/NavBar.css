@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+.nav{
+    max-width: 1080px;
+    margin: auto;
+    
+}
+.highlight_nav_item{
+    background-color: black;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.custom_input {
+    border-radius: 20px; 
+  }
+
+  .nav_font{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.nav_name{
+    font-size: 20px;
+    font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
